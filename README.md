@@ -9,11 +9,14 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 * Short-Term Contracts
 * Freelance Work
 
+## &#129302; Technologies and Skills
 
+## &#128296; Currently Working on: 
 
+* Algo Expert Certificate
+* Tasting Room PWA for Cuda Ridge Wines
 <!--
 **NGDino/NGDino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
