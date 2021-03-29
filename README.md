@@ -9,29 +9,59 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 * Short-Term Contracts
 * Freelance Work
 
-## &#129302; Technologies and Skills
-
-![JavaScript](images\logos\javascript.png =100x)
-
 ## &#128296; Currently Working on: 
 
 * Algo Expert Certificate
 * Tasting Room PWA for Cuda Ridge Wines
-<!--
-**NGDino/NGDino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Part time Assistant Instructor and Learning Assistant for Trilogy Education
 
-Here are some ideas to get you started:
+## &#129302; Technologies and Skills:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on .P..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="50rem" src="./images/logos/HTML.png">
+<img height="50rem" src="./images/logos/css.png">
+<img height="50rem" src="./images/logos/javascript.png">
+<img height="50rem" src="./images/logos/react.png">
+<img height="50rem" src="./images/logos/node.png">
+<img height="50rem" src="./images/logos/github.png">
+<img height="50rem" src="./images/logos/react.png">
+<img height="50rem" src="./images/logos/mongo.png">
+<img height="50rem" src="./images/logos/express.png">
+<img height="50rem" src="./images/logos/npm.png">
+<img height="50rem" src="./images/logos/graphql.png">
+<img height="50rem" src="./images/logos/materialui.png">
+<img height="50rem" src="./images/logos/stripe.png">
+<img height="50rem" src="./images/logos/bootstrap.png">
+<img height="50rem" src="./images/logos/devtools.jpg">
+<img height="50rem" src="./images/logos/handlebars.png">
+<img height="50rem" src="./images/logos/heroku.png">
+<img height="50rem" src="./images/logos/jest.png">
+<img height="50rem" src="./images/logos/jwt.png">
+<img height="50rem" src="./images/logos/materialize.png">
+<img height="50rem" src="./images/logos/mysql.png">
+<img height="50rem" src="./images/logos/sequelize.png">
+<img height="50rem" src="./images/logos/sql.png">
+<img height="50rem" src="./images/logos/webpack.png">
+<br/>
+<br/>
+
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGDino&show_icons=true&theme=merko)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGDino&layout=compact&theme=merko&langs_count=4)](https://github.com/NGDino/github-readme-stats)
+
+## Let's Connect!
+
+[(925)495-9681](tel:9254959681)  |  [n.dino90@gmail.com](mailto:n.dino90@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://ngdino.github.io/)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/18xwSxgmrkF2JgK022WgujHdjCFzH51pX/view?usp=sharing)
 
 
-credits 
-<a href="https://iconscout.com/icons/stripe" target="_blank">Stripe Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
+### Credits 
+<details>
+  <summary>Resources</summary>
+
+* Logos - Icon8.com & iconscout.com & pngitem.com
+
+* GitHub Stats https://github.com/anuraghazra/github-readme-stats
+
+</details>
