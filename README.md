@@ -17,31 +17,35 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 
 ## &#129302; Technologies and Skills:
 <br/>
+<p align="center">
+    <a href="https://ngdino.github.io/">
+        <img height="50rem" src="./images/logos/html.png">
+        <img height="50rem" src="./images/logos/css.png">
+        <img height="50rem" src="./images/logos/javascript.png">
+        <img height="50rem" src="./images/logos/react.png">
+        <img height="50rem" src="./images/logos/node.png">
+        <img height="50rem" src="./images/logos/github.png">
+        <img height="50rem" src="./images/logos/react.png">
+        <img height="50rem" src="./images/logos/mongo.png">
+        <img height="50rem" src="./images/logos/express.png">
+        <img height="50rem" src="./images/logos/npm.png">
+        <img height="50rem" src="./images/logos/graphql.png">
+        <img height="50rem" src="./images/logos/materialui.png">
+        <img height="50rem" src="./images/logos/stripe.png">
+        <img height="50rem" src="./images/logos/bootstrap.png">
+        <img height="50rem" src="./images/logos/devtools.jpg">
+        <img height="50rem" src="./images/logos/handlebars.png">
+        <img height="50rem" src="./images/logos/heroku.png">
+        <img height="50rem" src="./images/logos/jest.png">
+        <img height="50rem" src="./images/logos/jwt.png">
+        <img height="50rem" src="./images/logos/materialize.png">
+        <img height="50rem" src="./images/logos/mysql.png">
+        <img height="50rem" src="./images/logos/sequelize.png">
+        <img height="50rem" src="./images/logos/sql.png">
+        <img height="50rem" src="./images/logos/webpack.png">
+    </a>
+</p>
 
-<img height="50rem" src="./images/logos/HTML.png">
-<img height="50rem" src="./images/logos/css.png">
-<img height="50rem" src="./images/logos/javascript.png">
-<img height="50rem" src="./images/logos/react.png">
-<img height="50rem" src="./images/logos/node.png">
-<img height="50rem" src="./images/logos/github.png">
-<img height="50rem" src="./images/logos/react.png">
-<img height="50rem" src="./images/logos/mongo.png">
-<img height="50rem" src="./images/logos/express.png">
-<img height="50rem" src="./images/logos/npm.png">
-<img height="50rem" src="./images/logos/graphql.png">
-<img height="50rem" src="./images/logos/materialui.png">
-<img height="50rem" src="./images/logos/stripe.png">
-<img height="50rem" src="./images/logos/bootstrap.png">
-<img height="50rem" src="./images/logos/devtools.jpg">
-<img height="50rem" src="./images/logos/handlebars.png">
-<img height="50rem" src="./images/logos/heroku.png">
-<img height="50rem" src="./images/logos/jest.png">
-<img height="50rem" src="./images/logos/jwt.png">
-<img height="50rem" src="./images/logos/materialize.png">
-<img height="50rem" src="./images/logos/mysql.png">
-<img height="50rem" src="./images/logos/sequelize.png">
-<img height="50rem" src="./images/logos/sql.png">
-<img height="50rem" src="./images/logos/webpack.png">
 <br/>
 <br/>
 
