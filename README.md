@@ -11,6 +11,8 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 
 ## &#129302; Technologies and Skills
 
+![JavaScript](images\logos\javascript.png =100x)
+
 ## &#128296; Currently Working on: 
 
 * Algo Expert Certificate
@@ -29,3 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+credits 
+<a href="https://iconscout.com/icons/stripe" target="_blank">Stripe Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">Iconscout</a>
