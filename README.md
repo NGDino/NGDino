@@ -57,7 +57,7 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 
 ## Let's Connect!
 
-[(925)495-9681](tel:9254959681)  |  [n.dino90@gmail.com](mailto:me@neildino.tech)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://neildino.tech)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/1ch_63WJwCPraBcPtmOcKFqDnQuOjAcCD/view?usp=sharing)
+[(925)495-9681](tel:9254959681)  |  [n.dino90@gmail.com](mailto:me@neildino.tech)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://www.neildino.tech/)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/1ch_63WJwCPraBcPtmOcKFqDnQuOjAcCD/view?usp=sharing)
 
 
 ### Credits 
