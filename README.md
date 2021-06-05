@@ -2,7 +2,7 @@
 
 # &#128075; Hello, I'm Neil a Web Developer
 
-I come from a strong Marketing and Sales background with the last 3 years in fine wines &#127863;.  I have 3 years experience in WordPress and Digital marketing, as well as 1 year web development primarily with the MERN stack.  Currently residing in beautiful Colorado.  I enjoy snowboarding, camping, hiking, and doing anything with my wife and Boston Terrier Gilbert!
+I come from a strong Marketing and Sales background with the last 3 years in fine wines &#127863;.  I have 3 years experience in WordPress and Digital marketing, as well as 1 year of JavaScript development primarily using the MERN stack.  Currently residing in beautiful Colorado.  I enjoy snowboarding, camping, hiking, and doing anything with my wife Andrea and Boston Terrier Gilbert!
 
 ### &#128269; I am currently open to the Following opportunities:
 * Full-Time
@@ -57,7 +57,7 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 
 ## Let's Connect!
 
-[(925)495-9681](tel:9254959681)  |  [n.dino90@gmail.com](mailto:n.dino90@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://ngdino.github.io/)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/18xwSxgmrkF2JgK022WgujHdjCFzH51pX/view?usp=sharing)
+[(925)495-9681](tel:9254959681)  |  [n.dino90@gmail.com](mailto:me@neildino.tech)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://neildino.tech)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/1ch_63WJwCPraBcPtmOcKFqDnQuOjAcCD/view?usp=sharing)
 
 
 ### Credits 
