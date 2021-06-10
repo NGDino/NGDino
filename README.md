@@ -18,7 +18,7 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 ## &#129302; Technologies and Skills:
 <br/>
 <p align="center">
-    <a href="https://ngdino.github.io/">
+    <a href="https://neildino.tech">
         <img height="50rem" src="./images/logos/html.png">
         <img height="50rem" src="./images/logos/css.png">
         <img height="50rem" src="./images/logos/javascript.png">
