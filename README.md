@@ -2,7 +2,7 @@
 
 # &#128075; Hello, I'm Neil a Web Developer
 
-I come from a strong Marketing and Sales background with the last 3 years in fine wines &#127863;.  I have 3 years experience in WordPress and Digital marketing, as well as 1 year of JavaScript development primarily using the MERN stack.  Currently residing in beautiful Colorado.  I enjoy snowboarding, camping, hiking, and doing anything with my wife Andrea and Boston Terrier Gilbert!
+I come from a strong Marketing and Sales background with the last 3 years in fine wines &#127863;.  I have 3 years experience in WordPress and Digital marketing, as well as 1 year of Full-Stack JavaScript development primarily using the MERN stack.  Currently residing in beautiful Colorado.  I enjoy snowboarding, camping, hiking, and doing anything with my wife Andrea and Boston Terrier Gilbert!
 
 ### &#128269; I am currently open to the Following opportunities:
 * Full-Time
