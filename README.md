@@ -53,7 +53,7 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGDino&layout=compact&theme=merko&langs_count=4)](https://github.com/NGDino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGDino&layout=compact&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect!
 
