@@ -49,7 +49,9 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 <br/>
 <br/>
 
-![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGDino&show_icons=true&theme=merko)
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGDino&count_private=truehow_icons=true&theme=merko)
+
+
 
 <br/>
 
