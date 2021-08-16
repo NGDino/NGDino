@@ -2,12 +2,19 @@
 
 # &#128075; Hello, I'm Neil a Web Developer
 
-I come from a strong Marketing and Sales background with the last 3 years in fine wines &#127863;.  I have 3 years experience in WordPress and Digital marketing, as well as 1 year of Full-Stack JavaScript development primarily using the MERN stack.  Currently residing in beautiful Colorado.  I enjoy snowboarding, camping, hiking, and doing anything with my wife Andrea and Boston Terrier Gilbert!
+Based out of  **Denver, Colorado.**  I found my passion for coding in a winery of all places.  Working at Cuda Ridge Wines, my family's boutique winery in Livermore California, I was in charge of outside sales, marketing, and managing our WordPress site.  In March 2020 with business at a halt due to covid-19 restrictions, I had a unique opportunity to put my extra time to good use and took a dive head first into learning JavaScript.  I completed **UC Berkeley's Full-Stack Web Development Certificate Program** in November 2020, and have been building ever since! 
+
+In addition to my skills as a developer, I have 7 years professional sales and marketing experience!
+
+
+Currently Seeking the Following Opportunities
+
+
 
 ### &#128269; I am currently open to the Following opportunities:
-* Full-Time
+* Full-Time Web Development Roles where I can continue to learn and grow!
 * Short-Term Contracts
-* Freelance Work
+* Freelance Work building with WordPress, JAM stack, or MERN stack.
 
 ## &#128296; Currently Working on: 
 
@@ -16,6 +23,8 @@ I come from a strong Marketing and Sales background with the last 3 years in fin
 * Part time Assistant Instructor and Learning Assistant for Trilogy Education
 
 ## &#129302; Technologies and Skills:
+Competant in the following Technologies:
+HTML | CSS | Bootstrap | **ReactJS** | Material UI | JavaScript | **Redux** | Git | Rest API | SQL | Sequelize | **NodeJS** | MongoDB | Mongoose | GraphQL | Jest | Express JS | NextJS | Sanity and More!
 <br/>
 <p align="center">
     <a href="https://neildino.tech">
