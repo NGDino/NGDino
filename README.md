@@ -7,10 +7,6 @@ Based out of  **Denver, Colorado.**  I found my passion for coding in a winery o
 In addition to my skills as a developer, I have 7 years professional sales and marketing experience!
 
 
-Currently Seeking the Following Opportunities
-
-
-
 ### &#128269; I am currently open to the Following opportunities:
 * Full-Time Web Development Roles where I can continue to learn and grow!
 * Short-Term Contracts
