@@ -64,7 +64,7 @@ HTML | CSS | Bootstrap | **ReactJS** | Material UI | JavaScript | **Redux** | Gi
 
 ## Let's Connect!
 
-[(925)495-9681](tel:9254959681)  |  [me@neildino.tech](mailto:me@neildino.tech)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://www.neildino.tech/)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://drive.google.com/file/d/1ch_63WJwCPraBcPtmOcKFqDnQuOjAcCD/view?usp=sharing)
+[(925)495-9681](tel:9254959681)  |  [me@neildino.tech](mailto:me@neildino.tech)  |  [LinkedIn](https://www.linkedin.com/in/neildino/)  |  [Portfolio](https://www.neildino.tech/)  |  [Facebook](facebook.com/neil.dino1868)  |  [Resume](https://docs.google.com/document/d/15vCmW8mtLzy92TKR-Fp4n7uym1zww7OX/edit?usp=sharing&ouid=110323968023681263262&rtpof=true&sd=true)
 
 
 ### Credits 
