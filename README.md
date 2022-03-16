@@ -2,25 +2,26 @@
 
 # &#128075; Hello, I'm Neil a Web Developer
 
-Based out of  **Denver, Colorado.**  I found my passion for coding in a winery of all places.  Working at Cuda Ridge Wines, my family's boutique winery in Livermore California, I was in charge of outside sales, marketing, and managing our WordPress site.  In March 2020 with business at a halt due to covid-19 restrictions, I had a unique opportunity to put my extra time to good use and took a dive head first into learning JavaScript.  I completed **UC Berkeley's Full-Stack Web Development Certificate Program** in November 2020, and have been building ever since! 
+Based out of  **Denver, Colorado.**  I found my passion for coding in a winery of all places.  Working at Cuda Ridge Wines, my family's boutique winery in Livermore California, I was in charge of outside sales, marketing, and managing our WordPress site.  In March 2020 with business at a halt due to covid-19 restrictions, I had a unique opportunity to put my extra time to good use and took a dive head first into learning JavaScript.  I completed **UC Berkeley's Full-Stack Web Development Certificate Program** in November 2020, and have been building ever since! I am currently a full stack developer at a wonderful company called SPJ Solutions.
 
 In addition to my skills as a developer, I have 7 years professional sales and marketing experience!
 
 
 ### &#128269; I am currently open to the Following opportunities:
-* Full-Time Web Development Roles where I can continue to learn and grow!
-* Short-Term Contracts
+* Collaberation on projects/startups
+* Networking
 * Freelance Work building with WordPress, JAM stack, or MERN stack.
 
 ## &#128296; Currently Working on: 
 
-* Algo Expert Certificate
-* Tasting Room PWA for Cuda Ridge Wines
-* Part time Assistant Instructor and Learning Assistant for Trilogy Education
+*  Building Citopus's VMWare NSX Management software at SPJ Solutions
+*  Learning Python and Solidity - Fintech Bootcamp
+* Building a D-app with some frineds
+* Part time Assistant Learning Assistant for Trilogy Education
 
 ## &#129302; Technologies and Skills:
 Competant in the following Technologies:
-HTML | CSS | Bootstrap | **ReactJS** | Material UI | JavaScript | **Redux** | Git | Rest API | SQL | Sequelize | **NodeJS** | MongoDB | Mongoose | GraphQL | Jest | Express JS | NextJS | Sanity and More!
+PostGreSQL | **ReactJS** | TypeScript | JavaScript | **Redux** | Git | Rest API | SQL | Sequelize | **NodeJS** | MongoDB | Mongoose | GraphQL | Jest | Express JS | NextJS | Python | Sanity and More!
 <br/>
 <p align="center">
     <a href="https://neildino.tech">
