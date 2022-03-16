@@ -16,7 +16,7 @@ In addition to my skills as a developer, I have 7 years professional sales and m
 
 *  Building Citopus's VMWare NSX Management software at SPJ Solutions
 *  Learning Python and Solidity - Fintech Bootcamp
-* Building a D-app with some frineds
+* Building a D-app with some friends
 * Part time Assistant Learning Assistant for Trilogy Education
 
 ## &#129302; Technologies and Skills:
